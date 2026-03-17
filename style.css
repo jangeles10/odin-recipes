@@ -9,6 +9,7 @@
 
 .cuerpo-principal li a {
     display: inline;
+    font-size: 20px;
 }
 
 .cuerpo-principal .titulo {
