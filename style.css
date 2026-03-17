@@ -2,10 +2,17 @@
     background-color: #023047;
     font-family: 'Montserrat', monospace;
     color: aqua;
+    padding: 20px;
+    border: 4px solid orange;
+    margin: 10px;
 }
 
-.block-principal a {
-    text-decoration: none;
+.cuerpo-principal li a {
+    display: inline;
+}
+
+.cuerpo-principal .titulo {
+    text-align: center;
 }
 
 .imagenes-referenciales img {
