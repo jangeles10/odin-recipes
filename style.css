@@ -2,18 +2,23 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: cursive;
 }
 
 .cuerpo-principal {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
     background-color: #023047;
-    font-family: 'Montserrat', monospace;
     color: aqua;
     padding: 20px;
     border: 4px solid orange;
     margin: 10px;
 }
 
-.cuerpo-principal li a {
+
+
+/* .cuerpo-principal li a {
     display: inline;
     font-size: 20px;
 }
@@ -34,4 +39,4 @@
     display: block;
     margin: 10px;
     font-size: 15px;
-}
+} */
