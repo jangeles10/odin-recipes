@@ -1,3 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 .cuerpo-principal {
     background-color: #023047;
     font-family: 'Montserrat', monospace;
@@ -16,7 +22,7 @@
     text-align: center;
 }
 
-.imagenes-referenciales img {
+.home-page img {
     height: 120px;
     width: 200px;
     display: block;
